@@ -6,12 +6,12 @@
 # In[90]:
 
 
-from sklearn.datasets import make_blobs
 import numpy as np
 import pandas as pd
 import matplotlib
 import matplotlib.pyplot as plt
 import tkinter
+
 matplotlib.use('TkAgg')
 from sklearn.linear_model import LinearRegression
 
